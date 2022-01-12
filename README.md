@@ -2,7 +2,7 @@
 <h3 align="center">Junior Full-stack Software Developer, currently looking for exciting oppoprtunities</h3>
 <p align="center"><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></p>
 
-- 👨‍💻 Up to this day I have built **4 projects** (2 out of which are **full stack**)
+- 👨‍💻 Up to this day I have built **4 projects** (2 out of which are **full-stack**)
 
 - 🔭 I’m currently working on building my portfolio
 
