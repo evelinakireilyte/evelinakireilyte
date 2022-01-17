@@ -5,7 +5,7 @@
 - 👨‍💻 Up to this day I have built **4 projects** (2 out of which are **full-stack**)
 
 - 🌱 I’m currently learning **dockerisation** and **testing**
-- 
+
 - 🔭 Visit my portfolio at: https://evelina-kireilyte.netlify.app
 
 - 📫 Reach me at **evelinakireilyte@gmail.com** or through **[LinkedIn](https://www.linkedin.com/in/evelina-kireilyte/)**
